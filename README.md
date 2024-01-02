@@ -25,3 +25,11 @@ This repo aimes to use various machine learning algorithms on particle collision
 ![Variational Autoencoders ROC Curve](figures/VAE/VAE_ROC.pdf)
 
 ![Variational Autoencoders Output Distribution](figures/VAE/VAE_output.pdf)
+
+
+
+## Neural Network
+
+![Neural Network ROC Curve](figures/NN/NN_ROC.pdf)
+
+![Neural Network Output Distribution](figures/NN/NN_output.pdf)
