@@ -1,0 +1,8 @@
+tqdm==4.62.3
+tensorflow==2.6.0
+autograd
+scikit-learn
+numpy
+matplotlib
+seaborn
+scikit-plot-0.3.7
