@@ -12,33 +12,16 @@ This repo aimes to use various machine learning algorithms on particle collision
 
 
 
-## Decision Trees
+## Gradient Boosting
 
-![Autoencoders ROC Curve](figures/AE/AE_ROC.pdf)
+![Gradient Boosting ROC Curve](figures/XGB/XGB_ROC.pdf)
 
-![Autoencoders Output Distribution](figures/AE/AE_output.pdf)
+![Gradient Boosting Output Distribution](figures/XGB/XGB_output.pdf)
 
 
 
-## Decision Trees
+## Variational Autoencoders
 
-![Decision Tree ROC Curve](figures/DT/DT_ROC.pdf)
+![Variational Autoencoders ROC Curve](figures/VAE/VAE_ROC.pdf)
 
-![Decision Tree Output Distribution](figures/DT/DT_output.pdf)
-
- 
-  
-### 2. Data preparation using Apache Spark
-
-   Location: [Data ingestion and feature preparation](DataIngestion_FeaturePreparation)   
-   Description: Covers the process of data ingestion and feature preparation using Apache Spark.   
-
-### 3. Preparation of the datasets in Parquet and TFRecord formats  
-
-   Location: [Preparation of the datasets in Parquet and TFRecord formats](Datasets_Final_Preparation)  
-   Description: Provides instructions for preparing the datasets in Parquet and TFRecord formats.  
-
-### 4. Model tuning
-
-   Location: [Hyperparameter tuning](Hyperparameter_Tuning)   
-   Description: Explains the process of hyperparameter tuning to optimize the model's performance.  
+![Variational Autoencoders Output Distribution](figures/VAE/VAE_output.pdf)
