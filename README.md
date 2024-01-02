@@ -8,6 +8,24 @@ This repo aimes to use various machine learning algorithms on particle collision
 
 ![Decision Tree ROC Curve](figures/DT/DT_ROC.pdf)
 
+![Decision Tree Output Distribution](figures/DT/DT_output.pdf)
+
+
+
+## Decision Trees
+
+![Autoencoders ROC Curve](figures/AE/AE_ROC.pdf)
+
+![Autoencoders Output Distribution](figures/AE/AE_output.pdf)
+
+
+
+## Decision Trees
+
+![Decision Tree ROC Curve](figures/DT/DT_ROC.pdf)
+
+![Decision Tree Output Distribution](figures/DT/DT_output.pdf)
+
  
   
 ### 2. Data preparation using Apache Spark
